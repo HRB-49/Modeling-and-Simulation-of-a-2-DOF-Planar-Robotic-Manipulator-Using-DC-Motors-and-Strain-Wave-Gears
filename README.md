@@ -1,0 +1,1 @@
+# Modeling-and-Simulation-of-a-2-DOF-Planar-Robotic-Manipulator-Using-DC-Motors-and-Strain-Wave-Gears
